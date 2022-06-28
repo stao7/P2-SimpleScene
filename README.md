@@ -1,6 +1,5 @@
 # P2 Simple Scene Generation
 ***A project that use 2D drawing to redraw "the inspiring image" by using javascript.***
-![alt](https://drive.google.com/file/d/16WspcrNxDh8lZg5F6iAJzINrxkNg86OY/view?usp=sharing)
 
 In my scene, I used randomness in the position and color of the flowers, the position of the trees and the shape of the mountain, because in the inspiring image, the picture locked in a position which give us a view of blurred flowers, trees and mountains, therefore what I was trying to do is after each roll, the train will be like it is in a new position where the views will be different because now the picture is locked in a different perspectives.
 
